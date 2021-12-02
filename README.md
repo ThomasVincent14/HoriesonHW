@@ -11,10 +11,10 @@ The first thing I did to get the website where it should be was that I first cha
 In order to optimize the total usage of the changes I made, you would simply have to click on the "SEO" tab and have to direct you to the paragraph about search engine optimization. To get a clearer understanding of the images, you would have to hover over the images themselves. To understand where you are on the company website, you would have to look up at the title tab on the webpage.
 
 
-    ![DeployedApp](assets/images/DeployedApp.png)
+    ![DeployedApp](./assets/images/DeployedApp.png)
     
 ## Credits
-I received assistance fro mmy tutor, Suresh Kumar. He helped me get started and helped to go over some mechanics and shortcuts.
+I received assistance from my tutor, Suresh Kumar. He helped me get started and helped to go over some mechanics and shortcuts.
 ## License
 MIT License
 
